@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### 專長
-☂️ python 
+☂️ python \
 🕶 verilog
 
 ### 經歷
