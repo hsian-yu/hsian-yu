@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### 專長
-☂️ python \
+☂️ matlab \
 🕶 verilog
 
 ### 經歷
